@@ -1,6 +1,5 @@
-# Doubly-Linked-List
-Simple Java program utilizing a doubly linked list to display the top 15 scores from a list, also utilizing add and remove methods.
+# Data Structures & Algorithms
+Part of my DSA portfolio: a collection of simple Java programs demonstrating fundamental Data Structures & Algorithms skills, along with basic Java programming skills.
 
 ## Files
-
 - [`TopScores.java`](TopScores.java) — source code
